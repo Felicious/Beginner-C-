@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1480657624 source:c:\users\freak\onedrive\documents\c++ projects\homework9num2\hello.c
+
+1480658383 source:c:\users\freak\onedrive\documents\c++ projects\homework9num2\main.cpp
+	<iostream>
+	<fstream>
+
